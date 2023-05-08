@@ -4,6 +4,12 @@
       "id": 1,
       "email": "admin@mail.com",
       "password": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Sachin",
+      "email": "s@mail.com",
+      "password": 12
     }
   ],
   "products": [
